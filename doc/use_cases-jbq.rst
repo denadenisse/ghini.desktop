@@ -661,7 +661,7 @@ Let the database fit the garden
      the name of the person or enterprise who donated an specified batch 
      of plants.
      
-                      |Plant Origin description.png|
+                      |Captura de pantalla de 2017-08-15 10-40-46.png|
      
      Once you choose or create the conctact information, this section 
      deploys more options, here you can edit the specified region, where
